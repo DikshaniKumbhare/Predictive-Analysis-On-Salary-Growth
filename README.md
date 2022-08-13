@@ -2,7 +2,7 @@
 
 # Aim:
 
-To analyse EMP_dataset to find out whose salary is increased and predict which employee get hike in salary by using machine learning algorithm
+To analyse EMP_dataset to find out whose salary is increased and predict which employee get hike in salary by using machine learning algorithm.
 
 
 # Objectives:
