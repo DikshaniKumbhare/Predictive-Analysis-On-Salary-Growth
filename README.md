@@ -2,12 +2,12 @@
 
 # Aim:
 
-To analyse EMP_dataset to find out whose salary is increased and predict which employee get hike in salary by using machine learning algorithm.
+To analyse EMP_dataset to find out  salary diversity and predict which factors is affects the  hike in salary by using machine learning algorithm.
 
 
 # Objectives:
 
-Study the factors which affect the salary of employee. Find out which employee performance meet the most criteria. Find out the number of departments. 
+Study the factors which affect the salary of employee. Find out performance of employees. Find out the number of departments. 
 
 
 
