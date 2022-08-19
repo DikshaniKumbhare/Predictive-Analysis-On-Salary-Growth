@@ -7,7 +7,10 @@ To analyse EMP_dataset to find out  salary diversity and predict which factors i
 
 # Objectives:
 
-Study the factors which affect the salary of employee. Find out performance of employees. Find out the number of departments. 
+1. Study the factors which affect the salary of employee. 
+2. Find out performance of employees.
+3. Find out the number of departments. 
+4. To check salary based on Performance.
 
 
 
