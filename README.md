@@ -18,7 +18,7 @@ To analyse EMP_dataset to find out  salary diversity and predict which factors i
 # Methodology:
 1. Data collection:Collected the EMP_dataset from Kaggle.
 2. Exploratory Data Analyis: After cleaning process we study the descriptive statistics, visualize data based on how they are related to each other.
-3. Model Development: In this vary stage we undergo the use of machine learning algorithm to model and compare which model is best to fit.
+3. Model Development: In this stage,  the use of machine learning algorithm to model and compare which model is best to fit.
 4. Visualization-Tableau
 
 
